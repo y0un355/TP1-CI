@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\You_F\Documents\EPSI - I1\IntegrationContinue\tp1\word-count\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+**/target/**
+.project
+.classpath
+.settings/
+.svn/
+# Intellij
+*.ipr
+*.iml
+.idea
+.DS_Store
+/bootstrap
+/dependencies.xml
+.java-version
+.checkstyle
+.factorypath
+.vscode/
+repo/
