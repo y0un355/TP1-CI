@@ -3,7 +3,7 @@
 .classpath
 .settings/
 .svn/
-# Intellij
+#Intellij
 *.ipr
 *.iml
 .idea
