@@ -10,6 +10,10 @@ public class App
     {
         System.out.println( "CI/CD rocks!" );
         System.out.println( "Feature 002" );
+        System.out.println( "Feature 003" );
+        System.out.println( "Feature 002" );
+        System.out.println( "Feature 003" );
+
 
     }
 }
